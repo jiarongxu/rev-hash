@@ -1,6 +1,6 @@
 {
-  "name": "rev-hash",
-  "version": "1.0.0",
+  "name": "@os33/rev-hash",
+  "version": "1.0.1",
   "description": "Create a hash for file revving",
   "license": "MIT",
   "repository": "sindresorhus/rev-hash",
